@@ -1,4 +1,5 @@
-Tipsy Tower Game DIP periode 3 :)
+Tipsy Tower Game DIP periode 3
+
 Doelgroep: Jongvolwassenen/Volwassenen zonder zwak hart.
 
 Mijn game is shippable als de core game goed werkt en ik tevreden ben met de artstyle en geluiden.
