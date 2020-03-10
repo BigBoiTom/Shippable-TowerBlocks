@@ -12,7 +12,7 @@ Ik denk dat mensen wel een soort spooky vibe hier van verwachten en anders een t
 
 Hopelijk relateert dit wel een beetje aan wat deze mensen zoal spelen en sluit het hier bij aan.
 
-Wat mist er nog?: Sounds en eventuele particles, oh ja meerder blokken -_-
+Wat mist er nog?: Sounds en eventuele particles, oh ja meer blokken -_-
 
 
 Controls:
