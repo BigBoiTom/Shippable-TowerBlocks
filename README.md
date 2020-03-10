@@ -12,7 +12,7 @@ Ik denk dat mensen wel een soort spooky vibe hier van verwachten en anders een t
 
 Hopelijk relateert dit wel een beetje aan wat deze mensen zoal spelen en sluit het hier bij aan.
 
-Wat mist er nog?: Sounds en eventuele particles, oh ja meerder blokken -_-
+Wat mist er nog?: Sounds en eventuele particles, oh ja meer blokken -_-
 
 
 Controls:
@@ -20,6 +20,7 @@ Move met arrow keys.
 ja dat is het wel zo'n beetje.
 
 
+Open met Unity versie: 2019.3.4f1 Personal
 
 
 Tomas van Stenis GD1A
